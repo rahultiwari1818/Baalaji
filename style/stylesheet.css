@@ -222,3 +222,7 @@ iframe{
 .shadow-1{
     box-shadow: 10px 10px 20px 20px orange;
 }
+
+.bg-black{
+    background-color: black;
+}
