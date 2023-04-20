@@ -105,12 +105,14 @@ body{
 }
 @media (max-width:500px){
     #contactUs #div2 h3{
-        font-size: large;
+        font-size: medium;
     }
     #donate h2{
-        font-size: large;
+        font-size: medium;
     }
 }
+
+@
 #div1{
     text-align: center;
     padding: 20px;
