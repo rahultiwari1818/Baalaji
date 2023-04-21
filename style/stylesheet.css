@@ -104,6 +104,11 @@ body{
     #contactUs{
         display:block;
     }
+
+    #aartiImg{
+        height: auto;
+        width:95%;
+    }
 }
 @media (max-width:500px){
     #contactUs #div2 h3{
